@@ -10,7 +10,7 @@ addresses - get all addresses in page\
 [tag] texts - return all texts of [tag]\
 download images - Download all images in page\
 [tag] count - return how many times [tag] used |\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| -sl : If use -sl don\'t get links like : [url]/[image address]\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Image format : you can change image format to save (not recommended)\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| -- : Detect Image format and save with right format\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Command Type: download images [-sl] [--] ["png", "jpg", "svg", ...]
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| -sl : If use -sl don\'t get links like : [url]/[image address]\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Image format : you can change image format to save (not recommended)\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| -- : Detect Image format and save with right format\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Command Type: download images [-sl] [--] ["png", "jpg", "svg", ...]
