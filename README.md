@@ -2,9 +2,9 @@
 web scraper tool can help you to see tags, download images, get texts and ...
 
 # How to use 
-url - get page url__
-title - get page title__
-links - get all links in page
+url - get page url\
+title - get page title\
+links - get all links in page\
 scripts - get all scripts in page
 addresses - get all addresses in page
 [tag] texts - return all texts of [tag]
