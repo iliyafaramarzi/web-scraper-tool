@@ -9,8 +9,11 @@ scripts - get all scripts in page\
 addresses - get all addresses in page\
 [tag] texts - return all texts of [tag]\
 download images - Download all images in page\
-[tag] count - return how many times [tag] used |\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| -sl : If use -sl don\'t get links like : [url]/[image address]\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Image format : you can change image format to save (not recommended)\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| -- : Detect Image format and save with right format\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Command Type: download images [-sl] [--] ["png", "jpg", "svg", ...]
+[tag] count - return how many times [tag] used\
+download images - Download all images in page:\
+ ______________________________________________________________________\
+|   - sl : If use -sl don\'t get links like : [url]/[image address]    |\
+| Image format : you can change image format to save (not recommended) |\
+|        -- : Detect Image format and save with right format           |\
+|  Command Type: download images [-sl] [--] ["png", "jpg", "svg", ...] |\
+ ______________________________________________________________________
