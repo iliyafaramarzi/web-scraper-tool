@@ -47,7 +47,7 @@ while True:
 		print('addresses - get all addresses in page')
 		print('[tag] texts - return all texts of [tag]')
 		print('[tag] count - return how many times [tag] used')
-		print('download images - Download all images in page|\n\t\t\t\t\t     | -sl : If use -sl don\'t get links like : [url]/[image address]\n\t\t\t\t\t     | Image format : you can change image format to save (now recommended)\n\t\t\t\t\t     | -- : Detect Image format and save with right format\n\t\t\t\t\t     | Command Type: download images [-sl] [--] ["png", "jpg", "svg", ...]')
+		print('download images - Download all images in page|\n\t\t\t\t\t     | -sl : If use -sl don\'t get links like : [url]/[image address]\n\t\t\t\t\t     | Image format : you can change image format to save (not recommended)\n\t\t\t\t\t     | -- : Detect Image format and save with right format\n\t\t\t\t\t     | Command Type: download images [-sl] [--] ["png", "jpg", "svg", ...]')
 
 
 	elif inp == 'addresses':
